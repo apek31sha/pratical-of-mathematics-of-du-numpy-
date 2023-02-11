@@ -32,9 +32,9 @@ inverse=np.linalg.inv(n_array)
 print("determinant of matrix:",int(det))
 print("inverse of matrix:\n",inverse)
 
-# adjoint =transpose of  cofactor
-# inverse=transpose of cofactor/determinant of matrix
-# determinant of matrix*inverse's transpose = cofactor
+ adjoint =transpose of  cofactor
+ inverse=transpose of cofactor/determinant of matrix
+ determinant of matrix*inverse's transpose = cofactor
 
 
 k=np.matrix([[1,9,3],[2,5,4],[3,7,8]])
