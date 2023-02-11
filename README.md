@@ -14,6 +14,7 @@ print(x)
 
 
 #question2
+
 #rank of matrix using sympy
 import sympy 
 m=sympy.Matrix([[1,2,33,4],[1,2,34,5],[5,6,78,8],[1,2,34,45]])
