@@ -1,1 +1,1 @@
-# pratical-of-mathehatics-of-du
+# pratical-of-mathematics-of-du
