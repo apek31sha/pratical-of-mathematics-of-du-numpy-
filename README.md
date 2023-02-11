@@ -42,3 +42,4 @@ else:
     cofactor= np.linalg.det(k)*np.linalg.inv(k).T
     print("cofactor of matrix:\n",cofactor)
     print("adjoint of matrix:\n",cofactor.T)
+    
