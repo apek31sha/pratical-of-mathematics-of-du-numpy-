@@ -35,6 +35,7 @@ print("inverse of matrix:\n",inverse)
 # inverse=transpose of cofactor/determinant of matrix
 # determinant of matrix*inverse's transpose = cofactor
 
+
 k=np.matrix([[1,9,3],[2,5,4],[3,7,8]])
 if np.linalg.det==0:
     print('it is a singular matrix')
